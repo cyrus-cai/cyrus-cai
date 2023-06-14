@@ -25,8 +25,7 @@ This is Cyrus Cai.
 </p>
 
 ### Activities
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cyrus-cai&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cyrus-cai&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrus-cai&theme=swift&show_icons=true)
 
 ### Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus-cai&hide_progress=false)
