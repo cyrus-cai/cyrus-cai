@@ -28,5 +28,8 @@ This is Cyrus Cai.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrus-cai&theme=swift&show_icons=true)
 
 ### Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus-cai&hide_progress=false)
+<figure><embed src="https://wakatime.com/share/@30f4d813-0ba5-41a8-a18d-792e9458adda/1f80c06d-5903-4632-accd-e12db33d2860.svg"></embed></figure>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
