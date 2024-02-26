@@ -31,5 +31,13 @@ This is Cyrus Cai.
 <figure><embed src="https://wakatime.com/share/@30f4d813-0ba5-41a8-a18d-792e9458adda/1f80c06d-5903-4632-accd-e12db33d2860.svg"></embed></figure>
 <!--START_SECTION:waka-->
 
+```txt
+TypeScript   16 hrs 51 mins  █████████████████████████   99.38 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
