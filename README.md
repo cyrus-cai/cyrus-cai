@@ -27,9 +27,9 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   28 hrs 3 mins   ███████████████████████▓░   94.88 %
-Other   1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-XML     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Swift   26 hrs 13 mins  ███████████████████████▒░   92.68 %
+Other   1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+XML     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
