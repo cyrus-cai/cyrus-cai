@@ -27,11 +27,11 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        7 hrs 39 mins   ██████████████░░░░░░░░░░░   56.10 %
-Other        2 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-TypeScript   1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Python       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Swift        9 hrs 4 mins    ███████████████▒░░░░░░░░░   60.94 %
+Other        2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+TypeScript   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+JavaScript   57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Python       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
