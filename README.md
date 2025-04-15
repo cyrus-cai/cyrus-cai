@@ -27,7 +27,7 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   5 hrs 30 mins   █████████████████████████   100.00 %
+Other   4 hrs 8 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
