@@ -27,11 +27,11 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   47.09 %
-JavaScript   2 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-JSON         1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Other        48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+TypeScript   4 hrs 31 mins   ██████████████▒░░░░░░░░░░   56.70 %
+JSON         1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+JavaScript   1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Other        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Git Config   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
