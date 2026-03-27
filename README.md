@@ -1,11 +1,12 @@
-### Hi there 🐻
+### Hi there
 
 This is Cyrus Cai.
 
-- 👨‍🎓 NCUHomer & BEng from NCU
-- 🧑‍🏭 Currently working as a product manager.
-- 🔭 Currently learning web & Apple platform development.
-- 🪄 Learning and developing applications of AI technology, which I believe will enhance human dignity.
+- NCUHomer & BEng from NCU
+- Interested in AI technology, which I believe will enhance human dignity.
+- Web & Apple platform dev.
+
+- Currently working as a product manager.
   
 ### Build with
 <p align="left"> 
