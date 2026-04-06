@@ -27,10 +27,8 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     54 mins               ██████████████████████▒░░   89.99 %
-Bash         3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Ruby         2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown     0 secs                ████████████████████▓░░░░   82.77 %
+Git Config   0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
 ```
 
 <!--END_SECTION:waka-->
