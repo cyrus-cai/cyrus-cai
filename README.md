@@ -27,8 +27,7 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     0 secs                ████████████████████▓░░░░   82.77 %
-Git Config   0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
