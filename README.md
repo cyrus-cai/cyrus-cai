@@ -27,7 +27,11 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      23 mins               ████████░░░░░░░░░░░░░░░░░   31.39 %
+JSON       23 mins               ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+Lua        20 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+Markdown   7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Bash       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
