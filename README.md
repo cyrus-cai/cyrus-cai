@@ -27,7 +27,11 @@ This is Cyrus Cai.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Swift        15 hrs 26 mins        ████████████████▒░░░░░░░░   65.28 %
+Markdown     3 hrs 28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Python       1 hr 27 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+HTML         1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Other        45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
