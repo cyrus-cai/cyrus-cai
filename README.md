@@ -17,13 +17,12 @@ I'm interested in AI, and I hope it ends up giving people more dignity, not less
 ### Things I like
 
 <p align="left">
-  <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="40" height="40"/></a>
-  <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apple/8E8E93" alt="Apple" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
-  <a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://electronics.sony.com/audio/headphones/headband/p/wh1000xm6-b" target="_blank" rel="noreferrer"><img src="xm6.svg" alt="Sony WH-1000XM6" width="40" height="40"/></a>
+  <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="icons/claude.svg" alt="Claude" width="40" height="40"/></a>
+  <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="icons/apple.svg" alt="Apple" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="icons/swift.svg" alt="Swift" width="40" height="40"/></a>
+  <a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer"><img src="icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="icons/figma.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
 ### Elsewhere
