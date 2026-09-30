@@ -4,7 +4,7 @@ I'm Cyrus. I love making software, especially things that are simple, elegant, a
 
 - Interested in AI, and I hope it ends up giving people more dignity, not less.
 - Web & Apple platform dev, building mostly with Claude Code these days.
-- BEng from NCU, NCUHOMER. Currently PM at LY.com.
+- BEng from NCU, NCUHOMER. Currently PM at [LY.com](https://www.ly.com/).
 
 ### Making
 
