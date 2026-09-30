@@ -19,11 +19,15 @@ I'm interested in AI, and I hope it ends up giving people more dignity, not less
 <p align="left">
   <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="icons/claude.svg" alt="Claude" width="40" height="40"/></a>
   <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="icons/apple.svg" alt="Apple" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="icons/xcode.svg" alt="Xcode" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="icons/swift.svg" alt="Swift" width="40" height="40"/></a>
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="icons/bun.svg" alt="Bun" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="icons/supabase.svg" alt="Supabase" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="icons/vercel.svg" alt="Vercel" width="40" height="40"/></a>
   <a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer"><img src="icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="icons/figma.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.sony.com/" target="_blank" rel="noreferrer"><img src="icons/sony.svg" alt="Sony" width="40" height="40"/></a>
 </p>
 
 ### Elsewhere
