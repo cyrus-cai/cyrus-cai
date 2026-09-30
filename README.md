@@ -13,7 +13,7 @@ I'm Cyrus. I love making software, especially things that are simple, elegant, a
 - [claude-cobrain](https://github.com/cyrus-cai/claude-cobrain): a Claude Code plugin that builds persistent memory from your screen.
 - [Resume Templates](https://www.figma.com/community/file/1323193282285809885): Figma templates used by 5k+ people.
 
-### Build with
+### Things I like
 
 <p align="left">
   <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="40" height="40"/></a>
