@@ -2,7 +2,7 @@
 
 I'm Cyrus. I love making software, especially things that are simple, elegant, and kind to the people who use them.
 
-I'm interested in AI, and I hope it ends up giving people more dignity, not less. I'm excited about recursive self-improvement, which I think is a real opportunity, and about autonomous labs running biotech experiments at huge scale.
+I'm interested in AI, and I hope it ends up giving people more dignity. I'm excited about recursive self-improvement, which could lead to a great and prosperous future, and about autonomous labs running biotech experiments at scale to improve human health.
 
 - Web & Apple platform dev.
 - BEng from NCU, NCUHOMER.
