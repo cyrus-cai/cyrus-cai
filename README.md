@@ -8,6 +8,11 @@ I'm interested in AI, and I hope it ends up giving people more dignity. I'm exci
 - BEng from NCU, NCUHOMER.
 - Currently PM at [LY.com](https://www.ly.com/).
 
+### Personal Website
+
+[cyrus7.com](https://cyrus7.com/) 
+
+
 ### Making
 
 - [Notchi](https://github.com/cyrus-cai/notchi): ask AI, take a note, or set a reminder right from your Mac's notch.
@@ -33,4 +38,4 @@ I'm interested in AI, and I hope it ends up giving people more dignity. I'm exci
 
 ### Elsewhere
 
-[cyrus7.com](https://cyrus7.com/) · [X](https://x.com/cyrusss_7) · [Figma](https://www.figma.com/@xiikii) · [Unsplash](https://unsplash.com/@cyrus_7)
+[X](https://x.com/cyrusss_7) · [Figma](https://www.figma.com/@xiikii) · [Unsplash](https://unsplash.com/@cyrus_7)
